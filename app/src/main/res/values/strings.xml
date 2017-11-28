@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Co-Parent Talk4Kids</string>
+    <string name="input">Enter Message</string>
+    <string name="output">Receive Message</string>
+    <string name="btnSend">Send</string>
+    <string name="hint">Compose Message</string>
+</resources>
